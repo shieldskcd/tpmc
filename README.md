@@ -12,3 +12,5 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 3. Created a new project folder to do a basic calculation (3+4). 
 4. Use python3 against the my_program.txt and got result of 7
 5. Renamed the program to a .py extension to natively run Python
+6. Created a new project called Second Project and put a new my_program.py
+7. Created a new file that adds 10 and 5 to stay in our Second Project
