@@ -9,4 +9,6 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 ## Module 2
 1. We setup the VS Code environment to support Python
 2. We confirmed that I currently have PHP installed
-
+3. Created a new project folder to do a basic calculation (3+4). 
+4. Use python3 against the my_program.txt and got result of 7
+5. Renamed the program to a .py extension to natively run Python
