@@ -27,3 +27,4 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 6. Created some commands to use range and turn the items into a list.
 7. Used the dir(list) to understand what you can do with any data type.
 8. Experimented with data attributes such as string.upper() to convert to upper case. 
+9. Began writing code that can be used to find the average of a list of numbers. 
