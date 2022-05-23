@@ -1,2 +1,6 @@
-print(3+4)
-print(4 + 9)
+items = 10
+price = 2
+
+total_price = items * price
+
+print(total_price)
