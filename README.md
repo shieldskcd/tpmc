@@ -28,3 +28,6 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 7. Used the dir(list) to understand what you can do with any data type.
 8. Experimented with data attributes such as string.upper() to convert to upper case. 
 9. Began writing code that can be used to find the average of a list of numbers. 
+10. Worked with max values in the student_grades list (see maxval.py)
+11. Created a script that will calculate the number of times an item appears in a list (see countval.py)
+12. Create a script that converts a string value to lower case (see stringlower.py)
