@@ -19,3 +19,7 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 10. Performed some simple math operators to determine values using print. 
 
 ## Module 3
+1. Began discussing variables and why they are important
+2. Rebuilt the original first program to use variables instead of just hand keying items. 
+3. We discussed instances when you should use the interactive shell versus when we use an actual .py file
+4. We discussed using the split screen terminal to have one terminal running just a shell and another that runs the python interpereter.
