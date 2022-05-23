@@ -36,3 +36,4 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 15. Worked on separating out tuples and lists (see tuples.py). A tuple is immutable - meaning you cannot change it. A list, on the other hand is mutable - you can make changes to it. 
 16. Created a complex tuple for color codes (see color_tuples.py)
 17. Created a complex list of tuples for storing temperature values (see complex_dict.py)
+18. Created a Data_types_cheatsheet to help track the different data types.
