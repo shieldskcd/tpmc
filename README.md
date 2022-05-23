@@ -23,3 +23,7 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 2. Rebuilt the original first program to use variables instead of just hand keying items. 
 3. We discussed instances when you should use the interactive shell versus when we use an actual .py file
 4. We discussed using the split screen terminal to have one terminal running just a shell and another that runs the python interpereter.
+5. Created a small program to show the different types of variables you can use in Python including string, integer, and float. 
+6. Created some commands to use range and turn the items into a list.
+7. Used the dir(list) to understand what you can do with any data type.
+8. Experimented with data attributes such as string.upper() to convert to upper case. 
