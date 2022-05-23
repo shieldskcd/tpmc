@@ -1,1 +1,2 @@
-print (10 + 5)
+print(3+4)
+print(3 + 4)

@@ -15,3 +15,7 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 6. Created a new project called Second Project and put a new my_program.py
 7. Created a new file that adds 10 and 5 to stay in our Second Project
 8. Created a quick math operations cheat sheet (Math_Operators.md) to provide a quick reference for math calls in Python.
+9. Reviewed a detailed understanding of what exactly Python is (code launched against the cpython library to convert to machine code)
+10. Performed some simple math operators to determine values using print. 
+
+## Module 3
