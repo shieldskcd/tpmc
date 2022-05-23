@@ -32,3 +32,4 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 11. Created a script that will calculate the number of times an item appears in a list (see countval.py)
 12. Create a script that converts a string value to lower case (see stringlower.py)
 13. Updated the list.py file to use a dictionary for grades and calculated the grades by separating the student grades from the names.
+14. Create a new file (temps.py) to create a dictionary of float temperature values and print them.
