@@ -33,3 +33,6 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 12. Create a script that converts a string value to lower case (see stringlower.py)
 13. Updated the list.py file to use a dictionary for grades and calculated the grades by separating the student grades from the names.
 14. Create a new file (temps.py) to create a dictionary of float temperature values and print them.
+15. Worked on separating out tuples and lists (see tuples.py). A tuple is immutable - meaning you cannot change it. A list, on the other hand is mutable - you can make changes to it. 
+16. Created a complex tuple for color codes (see color_tuples.py)
+17. Created a complex list of tuples for storing temperature values (see complex_dict.py)
