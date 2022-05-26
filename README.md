@@ -49,3 +49,6 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 8. Created scripts to show the key versus value of dictionary data.
 9. Created a script to practice string joins
 10. Created multiple cheat sheets for quickly performing data operations. 
+11. Created several advanced slices to practice seperating values. 
+
+## Module 5 - The Basics: Functions and Conditionals
