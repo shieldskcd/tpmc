@@ -52,3 +52,9 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 11. Created several advanced slices to practice seperating values. 
 
 ## Module 5 - The Basics: Functions and Conditionals
+1. Create the mean calculator function to allow us to create our first function
+2. Create the currency converter function
+3. Create the square area function
+4. Create a function that converts ounces to mililiters
+5. Create a function to find mean of values in a list
+6. Used function to include an if/else statement for conditional results. 
