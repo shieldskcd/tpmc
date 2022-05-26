@@ -59,3 +59,6 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 5. Create a function to find mean of values in a list
 6. Used function to include an if/else statement for conditional results. 
 7. Attempted to create a function for conditionals > Did not seem to work.
+8. Used the elif function to test for multiple conditions. 
+9. One quiz question tested for Less or Equal
+10. One quiz question tested for True and False
