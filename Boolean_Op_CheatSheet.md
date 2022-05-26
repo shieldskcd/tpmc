@@ -35,4 +35,4 @@ if x ==1 or y == 2:
 else:
     print("No")
 ```
-This will return ```Yes``` since at least one of the conditions is True. In this case ```x == 1 ``` is True. 
+This will return ```Yes``` since at least one of the conditions is True. In this case ```x == 1``` is True. 
