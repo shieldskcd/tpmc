@@ -58,3 +58,4 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 4. Create a function that converts ounces to mililiters
 5. Create a function to find mean of values in a list
 6. Used function to include an if/else statement for conditional results. 
+7. Attempted to create a function for conditionals > Did not seem to work.
