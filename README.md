@@ -45,3 +45,6 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 4. Worked with negative indexes for list to slice data
 5. Used a mixed variable type list to extract strings 
 6. Used a mixed variable typle list to extract chained strings of data
+7. Created scripts to practice slicing of dictionary data and text data.
+8. Created scripts to show the key versus value of dictionary data.
+9. Created a script to practice string joins
