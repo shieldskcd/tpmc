@@ -88,3 +88,5 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 11. Created an actual script that performs the loop over a dictionary. 
 12. Created a script to seperate the values of a name and a phone number. 
 13. Created a script to replace the + value in the string value of a dictionary with "00"
+14. Created a while loop to check for a user name.
+15. Created some new additional loops to iterate until a condition is met. 
