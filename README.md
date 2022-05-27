@@ -64,3 +64,12 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 10. One quiz question tested for True and False
 11. Created a script to use if elif else loops for different temperatures
 12. Create Functionals and Conditionals Cheatsheet.
+
+## Module 6 - The Basics: Processing User Input
+1. Created a script that will read user input, convert it to a float (for tempearture) and then return the value and result from the function. 
+2. Created a script that would take a user's name and create a string message to say Hello to that person's name. 
+3. Created a script that would add multiple entries (first name and last name) and put them into a message. 
+4. Created another string formatting script to organize a message using the .format(name) style. 
+5. Used a function to capture a person's name and display a message. 
+6. Used another function to capture a person's name and force the first letter to be capitalized.
+7. Create Processing User Input Cheatsheet.
