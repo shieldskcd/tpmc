@@ -60,7 +60,7 @@ else:
     print("No")
 
 ```
-## Check if a value is of a particular **type** with **isinstance**:
+## Check if a value is of a particular **type** with ```isinstance```:
 
 ```
 isinstance("abc", str)
