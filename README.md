@@ -83,3 +83,4 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 6. Created a loop that prints only numbers that are integers. 
 7. Created a loop that only prints the value if it is an integer AND greater than 50.
 8. Created a quick guide to Using a for loop on a function.
+9. Created a loop that can iterate through a dictionary and print all items, just keys, or just values
