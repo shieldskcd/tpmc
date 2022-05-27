@@ -75,3 +75,11 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 7. Create Processing User Input Cheatsheet.
 
 ## Module 7 - The Basics: Loops
+1. Created a series of rounded numbers using the round function.
+2. Created a for loop that loops through a series of numbers until there are no more and prints them
+3. Created a for loop that prints the individual letters of a word on a line and capitalizes each letter.
+4. Created an interative loop that displays all the values in a list of numbers
+5. Created a loop that only prints if a number is greater than 50
+6. Created a loop that prints only numbers that are integers. 
+7. Created a loop that only prints the value if it is an integer AND greater than 50.
+8. Created a quick guide to Using a for loop on a function.
