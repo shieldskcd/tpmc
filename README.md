@@ -62,3 +62,5 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 8. Used the elif function to test for multiple conditions. 
 9. One quiz question tested for Less or Equal
 10. One quiz question tested for True and False
+11. Created a script to use if elif else loops for different temperatures
+12. Create Functionals and Conditionals Cheatsheet.
