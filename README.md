@@ -73,3 +73,5 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 5. Used a function to capture a person's name and display a message. 
 6. Used another function to capture a person's name and force the first letter to be capitalized.
 7. Create Processing User Input Cheatsheet.
+
+## Module 7 - The Basics: Loops
