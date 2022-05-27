@@ -84,3 +84,7 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 7. Created a loop that only prints the value if it is an integer AND greater than 50.
 8. Created a quick guide to Using a for loop on a function.
 9. Created a loop that can iterate through a dictionary and print all items, just keys, or just values
+10. Created a guide for string formatting a loop
+11. Created an actual script that performs the loop over a dictionary. 
+12. Created a script to seperate the values of a name and a phone number. 
+13. Created a script to replace the + value in the string value of a dictionary with "00"
