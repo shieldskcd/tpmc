@@ -95,3 +95,4 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 
 ## Module 8: Putting the Pieces Together: Building a Program
 1. This module will be designed to fill any gaps in the knowledge of a programmer trying to write a program. 
+2. Created problem statment description and flowchart in Mod8 folder
