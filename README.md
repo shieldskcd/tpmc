@@ -96,3 +96,12 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 ## Module 8: Putting the Pieces Together: Building a Program
 1. This module will be designed to fill any gaps in the knowledge of a programmer trying to write a program. 
 2. Created problem statment description and flowchart in Mod8 folder
+3. Created the basic code to run textpro.py. Code will look for interrogative words (how? why? etc.) and capitalize. This is performed through a function called sentence maker.
+4. If an interrogative is found, it will add a question mark (?) to the string. Otherwise, it will produce a period at the end of the phrase. 
+5. Printed the newly formatted sentence to the screen.
+6. Created a while looop that will continue to present the "Say Something" input and accept input until the ```\end``` phrase is entered. 
+7. We then call the sentence maker function and tell it to operate against the user_input string to format the sentences correctly.
+8. We used the .join function on the items in the string to properly concatenate the items in the list. 
+9. Module is complete.
+
+## Module 9: List Comprehensions
