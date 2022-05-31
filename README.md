@@ -105,3 +105,9 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 9. Module is complete.
 
 ## Module 9: List Comprehensions
+1. A list comprehension is similar to a loop but is focused specifically on data in lists. 
+2. Created a basic for loop to iterate a list (aka a common method for formatting list items). 
+3. Created a list comprehension that generates all the list formatting on the fly without having to dedicate a for loop to the process. 
+4. Created a data parser function that will only print values in a list that are numbers.
+5. Created another data parser function that will only print values that are not negative numbers.
+6. Created a new version of the list comprehension file to allow an else-if function when dealing with more complex lists.  
