@@ -27,4 +27,4 @@ An important questiomn to ask is what does this program do? What is its purpose?
 
 ## Code flowchart
 
-![Process Flow](problem_flow.drawio.png){ width=60% }
+![Process Flow](problem_flow.drawio.png)
