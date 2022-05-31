@@ -116,3 +116,6 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 9. Create a cheatsheet for List Comprehension.
 
 ## Module 10: More About Functions
+1. Learned how to send multiple arguments to a function we create.
+2. Created a simple script to accept two arguments (find the area of a triangle). 
+3. Create a function that takes two values and combines them together.
