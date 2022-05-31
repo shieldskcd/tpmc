@@ -113,3 +113,6 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 6. Created a new version of the list comprehension file to allow an else-if function when dealing with more complex lists.  
 7. Created a script that replaces non-string values in a list with the number 0. 
 8. Created a script that converts string numbers to float and then sums up the values. 
+9. Create a cheatsheet for List Comprehension.
+
+## Module 10: More About Functions
