@@ -91,3 +91,6 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 14. Created a while loop to check for a user name.
 15. Created some new additional loops to iterate until a condition is met. 
 16. Used the break and continue options to end a loop.
+17. Created the Loop Cheatsheet
+
+## Module 8: Putting the Pieces Together: Building a Program
