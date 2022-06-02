@@ -127,3 +127,6 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 9. Created a Cheatsheet for functions
 
 # Module 11: File Processing
+1. Created a text file with a list of fruits to be read by the Python
+2. Wrote a script that creates a variable for the items from fruit.txt so they can be displayed (see read_file.py). **IMPORTANT** You MUST browse to the folder (PMC\Mod11 in this case) where the file is stored before running or you will get an error about the directory not found. 
+3. 
