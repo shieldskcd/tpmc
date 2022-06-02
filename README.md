@@ -119,3 +119,11 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 1. Learned how to send multiple arguments to a function we create.
 2. Created a simple script to accept two arguments (find the area of a triangle). 
 3. Create a function that takes two values and combines them together.
+4. Created a function to determine the mean of multiple numbers
+5. Created a function to calculate averages.
+6. Created a function to convert an indefinite number of arguments to uppercase. 
+7. Created a function that can accept an indefinite nubmer of keyword arguments
+8. Created a function to accept keyword arguments but result in a value of 9.
+9. Created a Cheatsheet for functions
+
+# Module 11: File Processing
