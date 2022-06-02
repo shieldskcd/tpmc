@@ -129,4 +129,15 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 # Module 11: File Processing
 1. Created a text file with a list of fruits to be read by the Python
 2. Wrote a script that creates a variable for the items from fruit.txt so they can be displayed (see read_file.py). **IMPORTANT** You MUST browse to the folder (PMC\Mod11 in this case) where the file is stored before running or you will get an error about the directory not found. 
-3. 
+3. Created a file called bear.txt and wrote a script to read out the file contents (see read_bear.py).
+4. Create a script that stores the values of fruits.txt into a variable that can be reprinted as many times as desired. 
+5. Created a script that use the "with" option to perform blocks of code with an open file before closing it (see with_script.py)
+6. Created a script that allows us to read files from a different path than the original (see file_path.py).
+7. Created a script that will write data into a new file as it is input into Python (see write_data.py)
+8. Created a script that will extract the first 90 characters of the bear.txt file and prints them. 
+9. Created a function to count the first 90 characters in a file. 
+10. Create a script that makes a new file called "file.txt" and writes the word "snail" inside it.
+11. Create a script that makes a new file called "first.txt" and writes the first 90 characters of the 'bear.txt' file.
+12. Create a script that uses the append/Update (a+) operation to read a file while also writing and use the seek(0) to return the file cursor to the zero position.
+13. Created a script that takes the data of the 'bear1.txt' file and appends it to the end of 'bear2.txt'
+14. Created a script that takes the content of 'data.txt' and reads it in, then prints the content out 3 more times.
