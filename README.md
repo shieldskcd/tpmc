@@ -2,11 +2,11 @@
 This will be the repository for the Python Mega Course by Ardit Sulce from the udemy.com site
 
 
-## Module 1 - Welcome
+## Module 1: Welcome
 1. We discussed the need for using notes to handle the course.
 2. We talked about the structure of the course.
 
-## Module 2 - Getting Started with Python
+## Module 2: Getting Started with Python
 1. We setup the VS Code environment to support Python
 2. We confirmed that I currently have PHP installed
 3. Created a new project folder to do a basic calculation (3+4). 
@@ -18,7 +18,7 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 9. Reviewed a detailed understanding of what exactly Python is (code launched against the cpython library to convert to machine code)
 10. Performed some simple math operators to determine values using print. 
 
-## Module 3 - The Basics: Data Types
+## Module 3: The Basics: Data Types
 1. Began discussing variables and why they are important
 2. Rebuilt the original first program to use variables instead of just hand keying items. 
 3. We discussed instances when you should use the interactive shell versus when we use an actual .py file
@@ -38,7 +38,7 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 17. Created a complex list of tuples for storing temperature values (see complex_dict.py)
 18. Created a Data_types_cheatsheet to help track the different data types.
 
-## Module 4 - The Basics: Operations with Data Types
+## Module 4: The Basics: Operations with Data Types
 1. Created a new list of temperatures and used the append and remove items to modify lists
 2. Created scripts to take list items from one list and insert them into another list as an item.
 3. Worked with various list indexes to print slices of data in a list.
@@ -51,7 +51,7 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 10. Created multiple cheat sheets for quickly performing data operations. 
 11. Created several advanced slices to practice seperating values. 
 
-## Module 5 - The Basics: Functions and Conditionals
+## Module 5: The Basics: Functions and Conditionals
 1. Create the mean calculator function to allow us to create our first function
 2. Create the currency converter function
 3. Create the square area function
@@ -65,7 +65,7 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 11. Created a script to use if elif else loops for different temperatures
 12. Create Functionals and Conditionals Cheatsheet.
 
-## Module 6 - The Basics: Processing User Input
+## Module 6: The Basics: Processing User Input
 1. Created a script that will read user input, convert it to a float (for tempearture) and then return the value and result from the function. 
 2. Created a script that would take a user's name and create a string message to say Hello to that person's name. 
 3. Created a script that would add multiple entries (first name and last name) and put them into a message. 
@@ -74,7 +74,7 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 6. Used another function to capture a person's name and force the first letter to be capitalized.
 7. Create Processing User Input Cheatsheet.
 
-## Module 7 - The Basics: Loops
+## Module 7: The Basics: Loops
 1. Created a series of rounded numbers using the round function.
 2. Created a for loop that loops through a series of numbers until there are no more and prints them
 3. Created a for loop that prints the individual letters of a word on a line and capitalizes each letter.
@@ -126,7 +126,7 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 8. Created a function to accept keyword arguments but result in a value of 9.
 9. Created a Cheatsheet for functions
 
-# Module 11: File Processing
+## Module 11: File Processing
 1. Created a text file with a list of fruits to be read by the Python
 2. Wrote a script that creates a variable for the items from fruit.txt so they can be displayed (see read_file.py). **IMPORTANT** You MUST browse to the folder (PMC\Mod11 in this case) where the file is stored before running or you will get an error about the directory not found. 
 3. Created a file called bear.txt and wrote a script to read out the file contents (see read_bear.py).
@@ -141,3 +141,6 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 12. Create a script that uses the append/Update (a+) operation to read a file while also writing and use the seek(0) to return the file cursor to the zero position.
 13. Created a script that takes the data of the 'bear1.txt' file and appends it to the end of 'bear2.txt'
 14. Created a script that takes the content of 'data.txt' and reads it in, then prints the content out 3 more times.
+15. Create a cheatsheet about file processing. 
+
+## Module 12: Modules
