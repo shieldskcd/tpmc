@@ -46,4 +46,5 @@ print(find_winner(Andy = 17, Mary = 19, Sim = 45, Kae = 34))
 Output ```Sim```
 
 * Here's a summary of function elements:
+
 ![Function Elements](func_arguments.png)
