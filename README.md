@@ -144,3 +144,6 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 15. Create a cheatsheet about file processing. 
 
 ## Module 12: Modules
+1. Learned how to use the import function to import built in modules in Python. 
+2. Used the import to import the time function into a script
+3. Created a script that reads the values of the vegetables.txt file every 10 seconds and displays that data until we interrupt the script with Ctrl+C
