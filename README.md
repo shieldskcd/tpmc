@@ -147,3 +147,10 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 1. Learned how to use the import function to import built in modules in Python. 
 2. Used the import to import the time function into a script
 3. Created a script that reads the values of the vegetables.txt file every 10 seconds and displays that data until we interrupt the script with Ctrl+C
+4. Imported the os.py into our code and now it will present an error message if the file from the mod_basic1.py does not exist.
+5. Created the 'temps_today.csv" file to work with a third-party csv module.
+6. Imported the pandas module using PiP
+7. Created a script that uses the pandas capability to read a CSV and create a mean function. 
+8. Created a cheatsheet about imported modules
+
+## Module 13: Using Python with CSV, JSON and Excel Files
