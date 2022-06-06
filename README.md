@@ -165,3 +165,4 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 9. Use various functions including mean and max against data sets in dataframes. 
 10. Install Jupyter using Homebrew as PIP did not seem to like it (brew install jupyter notebook)
 11. Created a guide to the proper install of Jupyter (see Jupyter_install.md)
+12. Attempted to create some code in the Jupyter window but got an error about imporing Pandas. 
