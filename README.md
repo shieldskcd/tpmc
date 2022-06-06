@@ -154,3 +154,4 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 8. Created a cheatsheet about imported modules
 
 ## Module 13: Using Python with CSV, JSON and Excel Files
+1. Spent two videos understanding PANDAS and how to make it work with Python. 
