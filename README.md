@@ -163,5 +163,5 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 7. Updated the script to create a dataframe that passes two dictionaries inside the list.
 8. Use the mean function against a data frame to determine  individual and entire dataframe sets. 
 9. Use various functions including mean and max against data sets in dataframes. 
-10. Install Jupyter
+10. Install Jupyter using Homebrew as PIP did not seem to like it (brew install jupyter notebook)
 11. Created a guide to the proper install of Jupyter (see Jupyter_install.md)
