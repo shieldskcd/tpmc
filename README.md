@@ -155,3 +155,13 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 
 ## Module 13: Using Python with CSV, JSON and Excel Files
 1. Spent two videos understanding PANDAS and how to make it work with Python. 
+2. Created a guide to installing IPython shell as it is useful for analyzing larger data sets. 
+3. Attempting to run iPython failed initially. Had to add the alias so that it would run properly. To do this, you must execute the following command on your terminal: ``` alias ipython='python3.10 -m IPython' ``` (where the python3.10 is whatever version you are running of Python.)
+4. Created a script that creates a simple data frame (table) that Pandas can read. 
+5. Updated the script to create a dataframe that passes columns. 
+6. Updated the script to create a dataframe that passes indexes.
+7. Updated the script to create a dataframe that passes two dictionaries inside the list.
+8. Use the mean function against a data frame to determine  individual and entire dataframe sets. 
+9. Use various functions including mean and max against data sets in dataframes. 
+10. Install Jupyter
+11. Created a guide to the proper install of Jupyter (see Jupyter_install.md)
