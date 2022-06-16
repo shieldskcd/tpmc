@@ -166,3 +166,5 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 10. Install Jupyter using Homebrew as PIP did not seem to like it (brew install jupyter notebook)
 11. Created a guide to the proper install of Jupyter (see Jupyter_install.md)
 12. Attempted to create some code in the Jupyter window but got an error about imporing Pandas. 
+13. Thanks to some research using [StackOverflow][https://stackoverflow.com/questions/72622238/error-import-pandas-fails-on-jupyter-notebook-in-python3/72652099#72652099], I found out that the way to get pandas to properly work is to use `%pip install pandas`. 
+14. We also used the *BeautifulSoup* library with *Prettier* to do some webscraping from Wikipedia in Jupyter notebooks.
