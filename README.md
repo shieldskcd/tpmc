@@ -168,3 +168,15 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 12. Attempted to create some code in the Jupyter window but got an error about imporing Pandas. 
 13. Thanks to some research using [StackOverflow][https://stackoverflow.com/questions/72622238/error-import-pandas-fails-on-jupyter-notebook-in-python3/72652099#72652099], I found out that the way to get pandas to properly work is to use `%pip install pandas`. 
 14. We also used the *BeautifulSoup* library with *Prettier* to do some webscraping from Wikipedia in Jupyter notebooks.
+15. Uploaded the supermarkets files to the assets folder.
+16. Created a dataframe that loaded the supermarkets.csv into Jupyter.
+17. Successfully created a dataframe that used the JSON version of the supermarkets file and loaded it into a dataframe.
+18. Successfully loaded a .xlsx file into Jupyter Notebook
+19. Successfully loaded a comma separated file into Jupyter Notebook
+20. Loaded a semi-colon separated CSV using the `pandas.read_csv("supermarkets-semi-colons.txt, sep=";")`
+21. Loaded a txt file into Pandas that has no header row using `pandas.read_csv("data.txt", header = None)` which generated a generic nunber row header.
+22. Used the column descriptor to create columns for our data.txt file. `df8.columns = ["ID", "Address", "City", "ZIP", "Country", "Name", "Employees"]`
+23. Assigned our own index to a file using `df8.set_index("ID")` **However**, the dataframe only lasts for the moment you code it. Therefore, we created a new dataframe that forced the index to be the same using `df9 = df8.set_index("ID")` to force this index. 
+24. Forced a permanent change on our df8 index using `df8.set_index("ID", inplace=True)` but it was determined that if you were to change the index later such as: `df8.set_index("Name", inplace=True)` it will actually delete our entire ID column. 
+25. Set the name to be the ID column without dropping others using `df8.set_index("Name", inplace=True, drop=False)`
+
