@@ -179,4 +179,12 @@ This will be the repository for the Python Mega Course by Ardit Sulce from the u
 23. Assigned our own index to a file using `df8.set_index("ID")` **However**, the dataframe only lasts for the moment you code it. Therefore, we created a new dataframe that forced the index to be the same using `df9 = df8.set_index("ID")` to force this index. 
 24. Forced a permanent change on our df8 index using `df8.set_index("ID", inplace=True)` but it was determined that if you were to change the index later such as: `df8.set_index("Name", inplace=True)` it will actually delete our entire ID column. 
 25. Set the name to be the ID column without dropping others using `df8.set_index("Name", inplace=True, drop=False)`
-
+26. Learned to use the dataframe loc `df9.loc["735 Dolores St":"322 Hill St", "Country", "ID"]` to filter out data in the data frame. 
+27. Learned to convert a set of values from a data frame into a list `list(df9.loc[:,"Country"])`
+28. Used the iloc identifier to make a more interactive set of data for example: `df9.iloc[1:4, 1:4]` or `df9.iloc[3,1:4]`
+29. Used the .drop identifier to remove a column in the pandas dataframe using `df9.drop("Address",1)` and to remove a column using `df9.drop("332 Hill St", 0)`
+30. If you want to remove the data completely (rather than just hide it like the item above). You can rebuild the dataframe to simply not have that record like: `df9=df9.drop("332 Hill St", 0)`
+31. You can also drop a series of records based on the index using: `df9.drop(df9.index[0:3],0)`
+32. We also learned how to drop a column range using: `df9.drop(df9.columns[0:3],1)`
+33. Used the shape command to add a series of 5 rows into the column set using `df9["Continent"]=df9.shape[0]*["North America"]`
+34. Modified the column to merge two of the columns using: `df9["Continent"]=df9["Country"]+"," + "North America"`
